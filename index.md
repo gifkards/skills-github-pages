@@ -1,7 +1,7 @@
 
 
 # Kyler Reed  
-502-716-2707, kyler.reed@bison.howard.edu  
+kyler.reed@bison.howard.edu  
 
 ## PROFILE  
 Aspiring Computer Science professional currently pursuing a Bachelor's degree at Howard University, with proficiency in C++. Demonstrates a strong track record with a 95% project success rate in back-end development and diverse experience in logistics and tax preparation. Skilled in adaptability, problem-solving, and teamwork, ready to contribute effectively in a technology-focused role.  
