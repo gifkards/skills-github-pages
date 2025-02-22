@@ -1,6 +1,6 @@
 
 
-# Kyler Reed  
+ 
 kyler.reed@bison.howard.edu  
 
 ## PROFILE  
