@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 
 # Kyler Reed  
 502-716-2707, kyler.reed@bison.howard.edu  
